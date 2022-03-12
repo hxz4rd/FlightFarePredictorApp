@@ -24,9 +24,8 @@
   /* margin: 2px; */
 }
 body{
-  background-image:url(/images/878668.jpg) ;
-  background-position: center;
-  background-repeat: no-repeat;
+  background-image:url(../878668.jpg) ;
+ 
   background-size: cover;
   z-index: -1;
   height: 100vh;
