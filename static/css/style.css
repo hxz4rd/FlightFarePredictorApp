@@ -5,10 +5,31 @@
  *
  * Made By MaterializeCSS.com
  */
-
+ *{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+ }
+.input-field{
+  cursor: pointer;
+}
 .icon-block {
   padding: 0 15px;
 }
 .icon-block .material-icons {
 	font-size: inherit;
 }
+.add-border{
+  border: 2px solid wheat;
+  /* margin: 2px; */
+}
+body{
+  background-image:url(/images/878668.jpg) ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+  height: 100vh;
+  /* overflow: hidden; */
+}
+
